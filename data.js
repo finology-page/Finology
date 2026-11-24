@@ -36,7 +36,7 @@ window.SITE = {
     {
       "title": "Price action masterclass",
       "desc": "A recorded video series on structure, trends and entries.",
-      "image": "images/mwuavnmm.jpg",
+      "image": "",
       "tag": "Video",
       "link": ""
     },
